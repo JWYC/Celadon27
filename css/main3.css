@@ -387,8 +387,16 @@ header{
   color:#BAE0BA;
 }
 
+.ColorCard1 p{
+  color:#5FA8AD;
+}
+
+.ColorCard1:hover p{
+  color:teal;
+}
+
 .ColorHov1:hover{
- background-color:#5FA8AD;
+ background-color:#E2EAB2;
  color:#073851;
 }
 
