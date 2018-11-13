@@ -727,15 +727,13 @@ a:hover.PortfolioPageReturn {
 }
 
 .Project1Container{
-  background-color:#BAE0BA;
+  background-color:#073851;
   padding:3.5em 0 0 0;
-  color:#073851;
 }
 
 .Project2Container{
-  background-color:#BAE0BA;
+  background-color:#073851;
   padding:3.5em 0 0 0;
-  color:#073851;
 }
 
 .bglogoPortfolioPages{
@@ -755,6 +753,15 @@ a:hover.PortfolioPageReturn {
 .ProjectDiscription{
   padding: 25px 25px 25px 35px;
 }
+
+.ProjectDiscription h2, .PortfolioPageSkills, .ProjectPageListItems li{
+    color:#BAE0BA;
+}
+
+.ProjectDiscription h5, p{
+    color:#5FA8AD;
+}
+
 
 .ProjectDiscription2{
   padding: 25px 25px 25px 35px;
