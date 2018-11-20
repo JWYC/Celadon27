@@ -400,15 +400,22 @@ header{
  color:#073851;
 }
 
+
+
 .ColorCard2{
   background-color:#BAE0BA;
-  color:#073851;
+  color:#E2EAB2;
 }
 
 .ColorHov2:hover{
-  background-color:#94c462;
-  color:#BAE0BA;
+  background-color:#94C462;
+  color:teal;
 }
+
+.ColorHov2:hover p{
+  color:#073851;
+}
+
 
 .ColorCard3{
   background-color:#BAE0BA;
@@ -417,17 +424,30 @@ header{
 
 .ColorHov3:hover{
   background-color:#E2EAB2;
-  color:#BAE0BA;
+  color:teal;
 }
+
+.ColorHov3:hover p{
+  color:#073851;
+}
+
 
 .ColorCard4{
   background-color:#94C462;
-  color:#BAE0BA;
+  color:#073851;
+}
+
+.ColorCard4 p{
+  color:teal;
 }
 
 .ColorHov4:hover{
   background-color:#5FA8AD;
   color:#E2EAB2;
+}
+
+.ColorHov4:hover p{
+  color:#073851;
 }
 
 /***** SERVICES *****/
