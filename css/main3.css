@@ -871,12 +871,12 @@ li span{
   width:150px;
   Height:150px;
   margin: 1em 0 15em 5em;
-  background-color:#073851;
+  background-color:#94C462;
   border-radius: 100%;
 }
 
 .PortfolioAccessBtn:hover{
-  background-color:#5FA8AD;
+  background-color:Teal;
   text-decoration:none;
 }
 
