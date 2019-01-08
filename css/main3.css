@@ -490,10 +490,7 @@ form {
     color:#BAE0BA;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 1em;
-}
-
-#contact .control-label{
-  font-variant: small-caps;
+    font-variant: small-caps;
 }
 
 #contact fieldset{
